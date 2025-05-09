@@ -15,6 +15,7 @@ namespace SimpleRESTApi.data
 
         public DbSet<category> Categories { get; set; }
         public DbSet<Instructor> Instructor { get; set; }
+        public DbSet<Course> Course { get; set; }
     }
 
 }

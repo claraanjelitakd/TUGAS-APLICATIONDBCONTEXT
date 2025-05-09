@@ -4080,11 +4080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SEMESTER 4\\WEB RESTFUL API\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "c:\\Users\\User\\Downloads\\WebApplication11\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "F:\\SEMESTER 4\\WEB RESTFUL API\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "c:\\Users\\User\\Downloads\\WebApplication11\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "F:\\SEMESTER 4\\WEB RESTFUL API\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "c:\\Users\\User\\Downloads\\WebApplication11\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -19,6 +19,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<ICategory, CategoryEF>();
 builder.Services.AddScoped<IInstructor, InstructorEF>();
+builder.Services.AddScoped<ICourse, CourseEF>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
